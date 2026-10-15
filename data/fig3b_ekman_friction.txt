@@ -1,0 +1,4 @@
+# Fig. 3(b). Two-dimensional Kolmogorov flow with Ekman friction: lowering the energy fluctuation raises the graph slope, so energy reduction is not slaving.
+# energy_fluctuation_percent	graph_slope_R	graph_slope_upper_estimate
+41.9	19.8	19.8
+7.2	36.7	52.7

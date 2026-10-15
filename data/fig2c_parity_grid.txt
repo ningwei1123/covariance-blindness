@@ -1,0 +1,18 @@
+# Fig. 2(c). Parity law with EXACTLY-k-degree feature sets. A pure degree-p graph is invisible to exactly-q-degree features if and only if p+q is odd. All 16 combinations tested.
+# graph_degree_p	feature_degree_q	explained_fraction	prediction	agrees
+1	1	1.000000	visible	yes
+1	2	0.000589	invisible	yes
+1	3	0.794455	visible	yes
+1	4	0.003443	invisible	yes
+2	1	0.000319	invisible	yes
+2	2	1.000000	visible	yes
+2	3	0.004627	invisible	yes
+2	4	0.554560	visible	yes
+3	1	0.279878	visible	yes
+3	2	0.001150	invisible	yes
+3	3	1.000000	visible	yes
+3	4	0.008440	invisible	yes
+4	1	0.000122	invisible	yes
+4	2	0.667413	visible	yes
+4	3	0.014868	invisible	yes
+4	4	1.000000	visible	yes

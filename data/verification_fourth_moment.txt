@@ -1,0 +1,5 @@
+# Three independently coded numerical routes to the fourth-moment functional.
+# case	max_rel_diff_normal_eq_vs_svd_pinv	max_rel_diff_normal_eq_vs_residual_variance
+general_d4	2.4217e-15	8.8060e-16
+general_d6	5.2010e-15	6.4492e-15
+general_d8	3.7509e-15	7.5018e-15

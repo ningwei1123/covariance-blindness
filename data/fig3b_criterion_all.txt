@@ -1,0 +1,16 @@
+# Fig. 3(b). Criterion margin against the participation ratio for every system examined. Certified entries: the three Kuramoto-Sivashinsky domains and three Mackey-Glass delays. The participation ratio is computed from the snapshots; note it does not converge with sample size (12-33% drift).
+# system	participation_ratio	subspace_dimension_d	sigma_min	R_max	margin	verdict
+KS L=22	6.16058	8	0.999518	0.660168	0.33935	certified
+KS L=44	10.7877	18	0.992614	0.477607	0.515007	certified
+KS L=66	15.8301	28	0.991374	0.536905	0.454469	certified
+two-scale L96 (K=8)	51.3151	8	0.996442	1.556	-0.559561	rejected
+two-scale L96 (K=4)	21.7862	4	0.997948	16.7373	-15.7393	rejected
+single-scale L96 (N=20)	14.8221	8	0.00480126	13.1951	-13.1903	rejected
+single-scale L96 (N=40)	28.9398	12	0.00258735	14.6632	-14.6606	rejected
+2D Kolmogorov d=8	19.794	8	0.0181291	16.3901	-16.372	rejected
+2D Kolmogorov d=16	19.794	16	0.000350447	7.98353	-7.98318	rejected
+2D Kolmogorov d=24	19.794	24	0.000647911	5.35838	-5.35773	rejected
+Mackey-Glass tau=17	1.88937	4	0.969335	1.1916	-0.222268	rejected
+Mackey-Glass tau=23	2.0277	8	0.858088	0.385258	0.47283	certified
+Mackey-Glass tau=30	2.22114	8	0.795875	0.477478	0.318396	certified
+Mackey-Glass tau=40	2.41257	12	0.494603	0.206532	0.288071	certified

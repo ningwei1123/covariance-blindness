@@ -1,0 +1,27 @@
+# Criterion margin for every combination of system and a priori subspace. The prior choice can change the sign of the margin, so the subspace must be reported.
+# system_prior	participation_ratio	subspace_dimension_d	sigma_min	R_max	margin
+single-scale L96 N=20|low-fourier	14.8163	18	0.897833	1.17927	-0.281434
+single-scale L96 N=20|high-fourier	14.8163	18	0.897833	1.17927	-0.281434
+single-scale L96 N=20|chebyshev	14.8163	18	0.176058	1.26673	-1.09068
+single-scale L96 N=20|random(control)	14.8163	18	0.0970719	1.88572	-1.78865
+single-scale L96 N=20|growing-fourier	14.8163	18	0.00737218	1.89259	-1.88522
+single-scale L96 N=40|low-fourier	28.9424	29	0.0171943	1.35414	-1.33695
+single-scale L96 N=40|high-fourier	28.9424	29	0.0420213	1.38684	-1.34482
+single-scale L96 N=40|chebyshev	28.9424	29	0.014209	1.5866	-1.57239
+single-scale L96 N=40|random(control)	28.9424	29	0.0304439	1.66757	-1.63712
+single-scale L96 N=40|growing-fourier	28.9424	29	0.000910799	1.45178	-1.45087
+Swift-Hohenberg r=1.5 c=16|low-fourier	1	29	6.65169e-05	3.76344	-3.76337
+Swift-Hohenberg r=1.5 c=16|high-fourier	1	29	3.41124e-09	926885	-926885
+Swift-Hohenberg r=1.5 c=16|chebyshev	1	29	0.00783551	5.28977	-5.28193
+Swift-Hohenberg r=1.5 c=16|random(control)	1	28	0.0102978	3.85027	-3.83997
+Swift-Hohenberg r=1.5 c=16|growing-fourier	1	27	2.12219e-08	22357.9	-22357.9
+Swift-Hohenberg r=2.0 c=24|low-fourier	1.02899	29	2.61288e-09	1.75467e+06	-1.75467e+06
+Swift-Hohenberg r=2.0 c=24|high-fourier	1.02899	29	4.7412e-10	1.56188e+07	-1.56188e+07
+Swift-Hohenberg r=2.0 c=24|chebyshev	1.02899	29	4.89414e-05	3.68056	-3.68051
+Swift-Hohenberg r=2.0 c=24|random(control)	1.02899	27	0.00301468	2.57954	-2.57652
+Swift-Hohenberg r=2.0 c=24|growing-fourier	1.02899	17	9.75297e-08	1.69232	-1.69232
+2D Kolmogorov N=64 nu=0.02|low-fourier	19.794	29	3.53422e-06	48.095	-48.095
+2D Kolmogorov N=64 nu=0.02|high-fourier	19.794	29	9.56267e-06	4573.91	-4573.91
+2D Kolmogorov N=64 nu=0.02|chebyshev	19.794	29	6.49156e-11	18.7911	-18.7911
+2D Kolmogorov N=64 nu=0.02|random(control)	19.794	29	0.000801025	26.1036	-26.1028
+2D Kolmogorov N=64 nu=0.02|growing-fourier	19.794	23	2.40672e-11	8.74213	-8.74213

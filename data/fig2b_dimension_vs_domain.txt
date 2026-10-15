@@ -1,0 +1,9 @@
+# Fig. 2(b). Recovered elbow against domain size. Literature values are available at L = 22, 44 and 66.
+# domain_size_L	estimated_elbow	literature_inertial_manifold_dimension
+22	8	8
+33	4	NA
+44	18	18
+55	22	NA
+66	28	28
+77	32	NA
+88	37	NA

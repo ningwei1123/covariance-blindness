@@ -1,0 +1,5 @@
+# Fig. 2(b). The closed form against the analytic value ||c||_G^2 = c^T G c for a tail generated exactly as r = F_2(z) c.
+# ambient_dimension_d	analytic_norm_c_G_squared	closed_form_value	relative_difference
+d4	8.7585291	8.7585291	2.028145e-16
+d6	11.80236202	11.80236202	1.053560e-15
+d8	13.55320064	13.55320064	2.883441e-15

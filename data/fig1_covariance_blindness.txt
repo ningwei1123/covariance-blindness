@@ -1,0 +1,8 @@
+# Fig. 1. Six covariance-matched constructions. The two measures share the sample covariance to machine precision, hence identical participation ratios, while the variance a quadratic graph leaves unexplained differs by two orders of magnitude.
+# construction	participation_ratio_Gaussian	participation_ratio_graph	relative_covariance_difference	unexplained_tail_variance_Gaussian	unexplained_tail_variance_graph
+N14_d4_lin	10.6476518971	10.6476518971	1.332268e-15	0.999390170447	0.059856867125
+N24_d6_lin	18.5100623511	18.5100623511	1.776357e-15	0.998789801638	0.0294710591995
+N40_d8_lin	31.0834663695	31.0834663695	2.331468e-15	0.998390997344	0.017484557247
+N32_d8_lin	24.7971885274	24.7971885274	2.331468e-15	0.998257302189	0.0170722555847
+N30_d12_lin	23.2255135397	23.2255135397	2.331468e-15	0.996166009057	0.00977826471989
+N40_d8_geo	39.4701825878	39.4701825878	2.331468e-15	0.998338502387	0.0185389631299

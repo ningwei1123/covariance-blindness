@@ -1,0 +1,22 @@
+# Mackey-Glass criterion margin across five independent trajectories at each delay, using the correct number of unstable characteristic roots.
+# delay_tau	n_unstable_roots	subspace_dimension_d	trajectory_index	margin	verdict
+17.0	2	4	1	-0.22226763	rejected
+17.0	2	4	2	-0.015727019	rejected
+17.0	2	4	3	-0.11038784	rejected
+17.0	2	4	4	-0.10213459	rejected
+17.0	2	4	5	-0.28031541	rejected
+23.0	4	8	1	0.47283043	certified
+23.0	4	8	2	0.56647098	certified
+23.0	4	8	3	0.63291559	certified
+23.0	4	8	4	0.63660288	certified
+23.0	4	8	5	0.53590671	certified
+30.0	4	8	1	0.31839617	certified
+30.0	4	8	2	0.40945566	certified
+30.0	4	8	3	0.37314249	certified
+30.0	4	8	4	0.32472203	certified
+30.0	4	8	5	0.2665414	certified
+40.0	6	12	1	0.28807105	certified
+40.0	6	12	2	0.25505712	certified
+40.0	6	12	3	0.28553702	certified
+40.0	6	12	4	0.21522415	certified
+40.0	6	12	5	0.30433904	certified

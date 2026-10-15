@@ -1,0 +1,5 @@
+# Fig. 3(a). Modes required at matched accuracy (tolerance 1e-3) for a threshold-rank truncation and for the quadratic graph closure. The last two columns show that the centring convention alone changes the reported improvement by 25-50 percent.
+# domain_size_L	graph_dimension_dM	threshold_rank_r_1e-3	closure_modes_at_matched_accuracy	saving_factor	truncation_error_at_dM	closure_error_at_dM	improvement_consistent_centring	improvement_inconsistent_centring
+22	8	20	13	1.53846	0.175423	0.0279526	6.2757	4.88741
+44	18	42	27	1.55556	0.176618	0.0268243	6.58426	3.96931
+66	28	64	41	1.56098	0.181761	0.0262153	6.93338	3.25232

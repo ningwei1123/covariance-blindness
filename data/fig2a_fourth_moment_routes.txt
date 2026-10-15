@@ -1,0 +1,5 @@
+# Fig. 2(a). Three independently coded numerical routes to the fourth-moment functional Delta_k = h_k^T G^-1 h_k, compared on Gaussian head data with a mixed cubic/quadratic tail. All agree at the level of double-precision round-off.
+# ambient_dimension_d	max_rel_diff_normal_eq_vs_svd_pinv	max_rel_diff_normal_eq_vs_residual_variance
+d4	2.421657e-15	8.806024e-16
+d6	5.200955e-15	6.449184e-15
+d8	3.750912e-15	7.501824e-15

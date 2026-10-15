@@ -1,0 +1,6 @@
+# Fig. 2(c). Mackey-Glass delay equation: leading characteristic exponent and recovered elbow against delay. The leading exponent is positive at every delay, so linear instability alone does not select a delay.
+# delay_tau	participation_ratio	elbow	leading_exponent_Re_lambda1	kaplan_yorke_dimension	n_unstable_roots	significance_original	significance_shuffled
+17.0	1.88937	4	0.0412907	2.0	2	0.505508	0.968582
+23.0	2.0277	4	0.0362891	4.0	4	0.687928	1.02579
+30.0	2.22114	8	0.0312522	4.0	4	0.792255	1.08012
+40.0	2.41257	3	0.0258408	6.0	6	0.863977	1.03188

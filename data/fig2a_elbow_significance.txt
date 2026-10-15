@@ -1,0 +1,9 @@
+# Fig. 2(a). Elbow significance in seven Kuramoto-Sivashinsky domains before and after shuffling the time index of the POD coordinates above d. The shuffle preserves the covariance structure exactly and destroys only the head-tail relation.
+# domain_size_L	elbow	significance_original	significance_shuffled	residual_ratio_original	residual_ratio_shuffled	gamma_at_elbow
+22	8	0.51327	1.14916	0.17122	0.730844	1.53616
+33	4	0.0936257	2.28859	0.0853438	0.719472	8.44987
+44	18	0.514837	1.14072	0.31654	0.907333	1.2851
+55	22	0.53147	1.09361	0.363803	0.907663	1.05862
+66	28	0.374973	0.992612	0.276621	0.851043	1.05347
+77	32	0.507485	1.02681	0.393909	0.913549	1.07995
+88	37	0.546326	0.946696	0.475472	0.883382	1.03846
